@@ -1,0 +1,3 @@
+[submodule "Include/wavefile-delphi"]
+	path = Include/wavefile-delphi
+	url = https://github.com/DelphiForBroadcasting/wavefile-delphi.git
